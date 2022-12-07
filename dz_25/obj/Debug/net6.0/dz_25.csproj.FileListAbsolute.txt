@@ -1,0 +1,15 @@
+C:\Users\1\Desktop\Lesson_4\dz_25\bin\Debug\net6.0\dz_25.exe
+C:\Users\1\Desktop\Lesson_4\dz_25\bin\Debug\net6.0\dz_25.deps.json
+C:\Users\1\Desktop\Lesson_4\dz_25\bin\Debug\net6.0\dz_25.runtimeconfig.json
+C:\Users\1\Desktop\Lesson_4\dz_25\bin\Debug\net6.0\dz_25.dll
+C:\Users\1\Desktop\Lesson_4\dz_25\bin\Debug\net6.0\dz_25.pdb
+C:\Users\1\Desktop\Lesson_4\dz_25\obj\Debug\net6.0\dz_25.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\Lesson_4\dz_25\obj\Debug\net6.0\dz_25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\Lesson_4\dz_25\obj\Debug\net6.0\dz_25.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\Lesson_4\dz_25\obj\Debug\net6.0\dz_25.AssemblyInfo.cs
+C:\Users\1\Desktop\Lesson_4\dz_25\obj\Debug\net6.0\dz_25.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\Lesson_4\dz_25\obj\Debug\net6.0\dz_25.dll
+C:\Users\1\Desktop\Lesson_4\dz_25\obj\Debug\net6.0\refint\dz_25.dll
+C:\Users\1\Desktop\Lesson_4\dz_25\obj\Debug\net6.0\dz_25.pdb
+C:\Users\1\Desktop\Lesson_4\dz_25\obj\Debug\net6.0\dz_25.genruntimeconfig.cache
+C:\Users\1\Desktop\Lesson_4\dz_25\obj\Debug\net6.0\ref\dz_25.dll
