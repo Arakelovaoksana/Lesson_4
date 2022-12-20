@@ -1,18 +1,13 @@
-﻿//  Напишите программу, которая принимает на вход число и выдаёт сумму цифр в числе.
+﻿//Напишите программу, которая принимает на вход число и выдаёт сумму цифр в числе. Через строку решать нельзя.
 //452 -> 11
 //82 -> 10
 //9012 -> 12
-
-Console.Clear();
-
 Console.WriteLine("Введите число");
-int c = int.Parse(Console.ReadLine()!);
+int x = int.Parse(Console.ReadLine()!);
 int sum_digit = 0;
-while (c > 0)
+while (x > 0)
 {
-    int number = c % 10;
-    c = c / 10;
-    sum_digit = sum_digit + number;
+ sum_digit = sum_digit + x % 10;
+   x = x / 10;
 }
 Console.WriteLine(sum_digit);
-
